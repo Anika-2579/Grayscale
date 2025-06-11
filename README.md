@@ -1,2 +1,2 @@
 # Grayscale
-Converting My Existing College Project From Python To Java Using Swing
+Creating an Image_to_Grayscale_Converter in Java Using Swing
